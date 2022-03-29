@@ -1,0 +1,10 @@
+git clone
+git config --global
+git add .
+git commit -m
+git push
+git pull
+git checkout
+git checkout -b
+git branch
+git status
